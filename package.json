@@ -1,5 +1,9 @@
 {
+  "name": "my-desk-threejs",
+  "version": "1.0.0",
+  "description": "3D Scene with Blender and ThreeSJS (vanilla JS)",
   "repository": "#",
+  "author": "Thibault JP",
   "license": "UNLICENSED",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
